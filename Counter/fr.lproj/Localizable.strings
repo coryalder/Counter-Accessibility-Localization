@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  Counter
+
+  Created by Cory Alder on 2015-10-13.
+  Copyright © 2015 Cory Alder. All rights reserved.
+*/
+
+
+"visitor_counter_label" = "Vous êtes le visiteur numéro %i";
+
+
