@@ -2,11 +2,10 @@
   Localizable.strings
   Counter
 
-  Created by Cory Alder on 2015-10-13.
+  Created by Cory Alder on 2015-12-01.
   Copyright © 2015 Cory Alder. All rights reserved.
 */
 
 
-"visitor_counter_label" = "Vous êtes le visiteur numéro %i";
 
-
+"visitor_count_string" = "Vous êtes le visiteur %i";

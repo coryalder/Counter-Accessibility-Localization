@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Counter
 //
-//  Created by Cory Alder on 2015-10-13.
+//  Created by Cory Alder on 2015-12-01.
 //  Copyright © 2015 Cory Alder. All rights reserved.
 //
 
@@ -15,12 +15,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
-        
-        
-    NSUserDefaults.standardUserDefaults().registerDefaults(["enabled_preference" : true, "name_preference" : "Cory"])
-        
-        
-        
         // Override point for customization after application launch.
         return true
     }
