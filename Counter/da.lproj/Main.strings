@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; accessibilityHint = "Increases visit count"; ObjectID = "Ed1-Y1-h7k"; */
+"Ed1-Y1-h7k.accessibilityHint" = "Øg besøgende tæller";
+
+/* Class = "UIButton"; accessibilityLabel = "Visit"; ObjectID = "Ed1-Y1-h7k"; */
+"Ed1-Y1-h7k.accessibilityLabel" = "Besøg";
+
+/* Class = "UIButton"; normalTitle = "Visit"; ObjectID = "Ed1-Y1-h7k"; */
+"Ed1-Y1-h7k.normalTitle" = "Besøg";
+
+/* Class = "UILabel"; text = "The count is"; ObjectID = "sWZ-qf-bjX"; */
+"sWZ-qf-bjX.text" = "Optællingen er";

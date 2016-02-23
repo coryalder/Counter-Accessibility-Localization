@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8B80A5841C7CD70200B741B6 /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 8B80A5831C7CD70200B741B6 /* Settings.bundle */; };
+		8B80A5881C7CDB0C00B741B6 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8B80A58A1C7CDB0C00B741B6 /* Localizable.strings */; };
 		8BAA74031C7CC0BC00E40208 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BAA74021C7CC0BC00E40208 /* AppDelegate.swift */; };
 		8BAA74051C7CC0BC00E40208 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BAA74041C7CC0BC00E40208 /* ViewController.swift */; };
 		8BAA74081C7CC0BC00E40208 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8BAA74061C7CC0BC00E40208 /* Main.storyboard */; };
@@ -15,6 +17,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8B80A5831C7CD70200B741B6 /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
+		8B80A5851C7CD90400B741B6 /* da */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = da; path = da.lproj/Main.strings; sourceTree = "<group>"; };
+		8B80A5891C7CDB0C00B741B6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		8B80A58B1C7CDB0E00B741B6 /* da */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = da; path = da.lproj/Localizable.strings; sourceTree = "<group>"; };
 		8BAA73FF1C7CC0BC00E40208 /* Counter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Counter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8BAA74021C7CC0BC00E40208 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8BAA74041C7CC0BC00E40208 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -38,6 +44,7 @@
 		8BAA73F61C7CC0BC00E40208 = {
 			isa = PBXGroup;
 			children = (
+				8B80A5831C7CD70200B741B6 /* Settings.bundle */,
 				8BAA74011C7CC0BC00E40208 /* Counter */,
 				8BAA74001C7CC0BC00E40208 /* Products */,
 			);
@@ -55,6 +62,7 @@
 			isa = PBXGroup;
 			children = (
 				8BAA74021C7CC0BC00E40208 /* AppDelegate.swift */,
+				8B80A58A1C7CDB0C00B741B6 /* Localizable.strings */,
 				8BAA74041C7CC0BC00E40208 /* ViewController.swift */,
 				8BAA74061C7CC0BC00E40208 /* Main.storyboard */,
 				8BAA74091C7CC0BC00E40208 /* Assets.xcassets */,
@@ -106,6 +114,7 @@
 			knownRegions = (
 				en,
 				Base,
+				da,
 			);
 			mainGroup = 8BAA73F61C7CC0BC00E40208;
 			productRefGroup = 8BAA74001C7CC0BC00E40208 /* Products */;
@@ -122,6 +131,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8B80A5881C7CDB0C00B741B6 /* Localizable.strings in Resources */,
+				8B80A5841C7CD70200B741B6 /* Settings.bundle in Resources */,
 				8BAA740D1C7CC0BC00E40208 /* LaunchScreen.storyboard in Resources */,
 				8BAA740A1C7CC0BC00E40208 /* Assets.xcassets in Resources */,
 				8BAA74081C7CC0BC00E40208 /* Main.storyboard in Resources */,
@@ -143,10 +154,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
+		8B80A58A1C7CDB0C00B741B6 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8B80A5891C7CDB0C00B741B6 /* en */,
+				8B80A58B1C7CDB0E00B741B6 /* da */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
 		8BAA74061C7CC0BC00E40208 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				8BAA74071C7CC0BC00E40208 /* Base */,
+				8B80A5851C7CD90400B741B6 /* da */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -286,6 +307,7 @@
 				8BAA74131C7CC0BC00E40208 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
