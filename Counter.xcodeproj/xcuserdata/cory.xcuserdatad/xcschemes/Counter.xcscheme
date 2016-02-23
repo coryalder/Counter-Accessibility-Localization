@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0710"
+   LastUpgradeVersion = "0720"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8B4409D51C0E0E2E00D762F4"
+               BlueprintIdentifier = "8BAA73FE1C7CC0BC00E40208"
                BuildableName = "Counter.app"
                BlueprintName = "Counter"
                ReferencedContainer = "container:Counter.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8B4409D51C0E0E2E00D762F4"
+            BlueprintIdentifier = "8BAA73FE1C7CC0BC00E40208"
             BuildableName = "Counter.app"
             BlueprintName = "Counter"
             ReferencedContainer = "container:Counter.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8B4409D51C0E0E2E00D762F4"
+            BlueprintIdentifier = "8BAA73FE1C7CC0BC00E40208"
             BuildableName = "Counter.app"
             BlueprintName = "Counter"
             ReferencedContainer = "container:Counter.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8B4409D51C0E0E2E00D762F4"
+            BlueprintIdentifier = "8BAA73FE1C7CC0BC00E40208"
             BuildableName = "Counter.app"
             BlueprintName = "Counter"
             ReferencedContainer = "container:Counter.xcodeproj">

@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Counter
 //
-//  Created by Cory Alder on 2015-12-01.
-//  Copyright © 2015 Cory Alder. All rights reserved.
+//  Created by Cory Alder on 2016-02-23.
+//  Copyright © 2016 Cory Alder. All rights reserved.
 //
 
 import UIKit
