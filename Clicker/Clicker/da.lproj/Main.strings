@@ -1,12 +1,12 @@
 
 /* Class = "UILabel"; accessibilityLabel = "number of clicks"; ObjectID = "Koi-Vj-2jT"; */
-"Koi-Vj-2jT.accessibilityLabel" = "number of clicks";
+"Koi-Vj-2jT.accessibilityLabel" = "antallet af klik";
 
 /* Class = "UILabel"; text = "0 Clicks"; ObjectID = "Koi-Vj-2jT"; */
-"Koi-Vj-2jT.text" = "0 Clicks";
+"Koi-Vj-2jT.text" = "0 klik";
 
 /* Class = "UIButton"; accessibilityLabel = "Increase click count"; ObjectID = "th5-sX-Vq4"; */
-"th5-sX-Vq4.accessibilityLabel" = "Increase click count";
+"th5-sX-Vq4.accessibilityLabel" = "Øg klik tæller";
 
 /* Class = "UIButton"; normalTitle = "Click"; ObjectID = "th5-sX-Vq4"; */
-"th5-sX-Vq4.normalTitle" = "Click";
+"th5-sX-Vq4.normalTitle" = "Klik";
