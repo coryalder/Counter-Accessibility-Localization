@@ -1,14 +1,12 @@
 //
 //  AppDelegate.swift
-//  Counter
+//  Clicker
 //
-//  Created by Cory Alder on 2016-02-23.
+//  Created by Cory Alder on 2016-04-19.
 //  Copyright © 2016 Cory Alder. All rights reserved.
 //
 
 import UIKit
-
-typealias UIColour = UIColor
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -18,11 +16,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         // Override point for customization after application launch.
-        
-        let 😙 = UIColour.blackColor()
-        "donut draught draft lite"
-        
-        
         return true
     }
 
